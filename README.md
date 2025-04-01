@@ -18,4 +18,4 @@ The project aims to analyze Amazon's 2024 sales data to identify trends in reven
 7. Which city contributes the most to sales?  
 8. What percentage of total sales comes from the top 5 states/cities?  
 ##  Interactive Dashboard
-- <a href=https://github.com/Ksjanardan/Amazon-Data-Analysis-Dashboard/blob/main/Amazon%20-%20sales%20-%20Data%20-%20Analysis%20Dashboard%20.png> View Dashboard</a>
+"C:\Users\ksjan\OneDrive\Desktop\OneDrive\Pictures\Amazon - sales - Data - Analysis Dashboard .png"
