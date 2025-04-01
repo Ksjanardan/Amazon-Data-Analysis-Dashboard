@@ -17,5 +17,5 @@ The project aims to analyze Amazon's 2024 sales data to identify trends in reven
 6. Which state has the highest sales?  
 7. Which city contributes the most to sales?  
 8. What percentage of total sales comes from the top 5 states/cities?  
-##  View Interactive Dashboard
-- <a href=https://github.com/Ksjanardan/Amazon-Data-Analysis-Dashboard/blob/main/Amazon%20-%20sales%20-%20Data%20-%20Analysis%20Dashboard%20.png>Dataset</a>
+##  Interactive Dashboard
+- <a href=https://github.com/Ksjanardan/Amazon-Data-Analysis-Dashboard/blob/main/Amazon%20-%20sales%20-%20Data%20-%20Analysis%20Dashboard%20.png> View Dataset</a>
